@@ -19,6 +19,7 @@ Este es un sencillo juego de tres en línea para dos personas, creado como parte
 
 ![Demo del juego](./demo.gif)
 
+<br>
 
 ## ⚙️ How to Run / Cómo ejecutar
 
