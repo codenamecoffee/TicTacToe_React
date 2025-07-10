@@ -3,6 +3,7 @@
 > 🎮 A simple implementation of the classic Tic Tac Toe game built with React and Vite.  
 > (ES) Una implementación simple del clásico juego Tic Tac Toe creado con React y Vite.
 
+<br>
 
 ## 📌 Description / Descripción
 
