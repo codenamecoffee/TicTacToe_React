@@ -3,6 +3,8 @@
 > 🎮 A simple implementation of the classic Tic Tac Toe game built with React and Vite.  
 > (ES) Una implementación simple del clásico juego Tic Tac Toe creado con React y Vite.
 
+
+
 ## 📌 Description / Descripción
 
 **EN**  
@@ -10,6 +12,8 @@ This is a simple two-player Tic Tac Toe game created as part of my learning path
 
 **ES**  
 Este es un sencillo juego de tres en línea para dos personas, creado como parte de mi proceso de aprendizaje en React. Está basado en un tutorial de freeCodeCamp, al cual le realicé pequeños cambios personales y personalización de estilos. La lógica del juego es básica y requiere dos jugadores en el mismo dispositivo. La interfaz y los mensajes del juego están en español.
+
+
 
 ## 🎥 Demo
 
@@ -32,7 +36,11 @@ npm install
 npm run dev
 ```
 
+
+
 > Then open your browser and visit the local server URL provided in the terminal (usually `http://localhost:5173`).
+
+
 
 
 🚀 Technologies Used / Tecnologías utilizadas
