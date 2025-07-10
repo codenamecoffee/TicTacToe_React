@@ -15,17 +15,9 @@ Este es un sencillo juego de tres en línea para dos personas, creado como parte
 
 <br>
 
-## 🎥 Demo
+## 🎥 Demo - You can try this game live [here](https://codenamecoffee.github.io/TicTacToe_React/) / Puedes probar el juego en vivo [aquí](https://codenamecoffee.github.io/TicTacToe_React/) 
 
 ![Demo del juego](./demo.gif)
-
-<br>
-
-🕹️ You can try the game here: [Play Tic Tac Toe](https://codenamecoffee.github.io/TicTacToe_React/)  
-
-<br>
-
-(ES) Puedes probar el juego en este enlace: [Jugar Tres en Línea](https://codenamecoffee.github.io/TicTacToe_React/)
 
 <br>
 
