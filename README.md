@@ -15,10 +15,12 @@ Este es un sencillo juego de tres en línea para dos personas, creado como parte
 
 <br>
 
-## 🎥 Demo - You can try this game live [here](https://codenamecoffee.github.io/TicTacToe_React/) / Puedes probar el juego en vivo [aquí](https://codenamecoffee.github.io/TicTacToe_React/) 
+## 🎥 Demo 
 
 ![Demo del juego](./demo.gif)
 
+- You can try this game live [here](https://codenamecoffee.github.io/TicTacToe_React/) / Puedes probar el juego en vivo [aquí.](https://codenamecoffee.github.io/TicTacToe_React/)
+  
 <br>
 
 ## ⚙️ How to Run / Cómo ejecutar
