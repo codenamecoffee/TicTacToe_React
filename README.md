@@ -37,8 +37,11 @@ npm install
 npm run dev
 ```
 
+<br>
+
 > Then open your browser and visit the local server URL provided in the terminal (usually `http://localhost:5173`).
 
+<br>
 
 🚀 Technologies Used / Tecnologías utilizadas
 
@@ -50,6 +53,7 @@ npm run dev
 
 * CSS
 
+<br>
 
 🧠 Potential Improvements / Posibles mejoras
 
@@ -61,10 +65,12 @@ npm run dev
 
 * Track wins/losses and draw statistics
 
+<br>
     
 📚 Credits / Créditos
 
 Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
 
+<br>
 
 ✍️ Created by Federico González
