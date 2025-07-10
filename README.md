@@ -19,7 +19,10 @@ Este es un sencillo juego de tres en línea para dos personas, creado como parte
 
 ![Demo del juego](./demo.gif)
 
-- You can try this game live [here](https://codenamecoffee.github.io/TicTacToe_React/) / Puedes probar el juego en vivo [aquí.](https://codenamecoffee.github.io/TicTacToe_React/)
+<br>
+
+- You can try this game live [here](https://codenamecoffee.github.io/TicTacToe_React/).
+- Puedes probar el juego en vivo [aquí](https://codenamecoffee.github.io/TicTacToe_React/).
   
 <br>
 
