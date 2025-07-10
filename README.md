@@ -21,7 +21,10 @@ Este es un sencillo juego de tres en línea para dos personas, creado como parte
 
 <br>
 
-You can try the game here: [Play Tic Tac Toe](https://codenamecoffee.github.io/TicTacToe_React/)  
+🕹️ You can try the game here: [Play Tic Tac Toe](https://codenamecoffee.github.io/TicTacToe_React/)  
+
+<br>
+
 (ES) Puedes probar el juego en este enlace: [Jugar Tres en Línea](https://codenamecoffee.github.io/TicTacToe_React/)
 
 <br>
