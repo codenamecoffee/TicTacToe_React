@@ -13,6 +13,7 @@ This is a simple two-player Tic Tac Toe game created as part of my learning path
 **ES**  
 Este es un sencillo juego de tres en línea para dos personas, creado como parte de mi proceso de aprendizaje en React. Está basado en un tutorial de freeCodeCamp, al cual le realicé pequeños cambios personales y personalización de estilos. La lógica del juego es básica y requiere dos jugadores en el mismo dispositivo. La interfaz y los mensajes del juego están en español.
 
+<br>
 
 ## 🎥 Demo
 
