@@ -87,9 +87,9 @@ npm run dev
     
 ## 📚 Credits / Créditos
 
-* Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
+* (EN) Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
 
-* Basado en un tutorial de freeCodeCamp en Youtube, con modificaciones personales y estilo.
+* (ES) Basado en un tutorial de freeCodeCamp en Youtube, con modificaciones personales y estilo.
 
 <br>
 
