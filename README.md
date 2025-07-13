@@ -1,6 +1,9 @@
 # 🕹️ Tic Tac Toe : React + Vite  
 
-> 🎮 A simple implementation of the classic Tic Tac Toe game built with React and Vite.  
+> 🎮 A simple implementation of the classic Tic Tac Toe game built with React and Vite.
+
+<br>
+
 > (ES) Una implementación simple del clásico juego Tic Tac Toe creado con React y Vite.
 
 <br>
@@ -48,6 +51,10 @@ npm run dev
 
 <br>
 
+> Luego abre el navegador y visita la URL del server local que muestra la terminal (normalmente `http://localhost:5173`) 
+
+<br>
+
 🚀 Technologies Used / Tecnologías utilizadas
 
 * React
@@ -62,19 +69,33 @@ npm run dev
 
 🧠 Potential Improvements / Posibles mejoras
 
-* Add a dark/light mode toggle
+* (EN) Add a toggle visual theme dark/light mode
+* (ES) Agregar un tema visual que pueda alternar entre claro/oscuro
 
-* Allow to restart the game without refreshing
+<br>
 
-* Implement a single-player mode with AI
+* (EN) Allow to restart the game without refreshing
+* (ES) Permitir el reinicio del juego sin refrescar
 
-* Track wins/losses and draw statistics
+<br>
+
+* (EN) Implement a single-player mode with AI
+* (ES) Implementar un modo de un jugador usando IA
+
+<br>
+
+* (EN) Track wins/losses and draw statistics
+* (ES) Emplear seguimiento de partidas ganadas/perdidas y mostrar estadísticas
 
 <br>
     
 📚 Credits / Créditos
 
 Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
+
+<br>
+
+Basado en un tutorial de freeCodeCamp en Youtube, con modificaciones personales y estilo.
 
 <br>
 
