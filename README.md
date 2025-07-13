@@ -2,8 +2,6 @@
 
 > 🎮 A simple implementation of the classic Tic Tac Toe game built with React and Vite.
 
-<br>
-
 > (ES) Una implementación simple del clásico juego Tic Tac Toe creado con React y Vite.
 
 <br>
@@ -49,8 +47,6 @@ npm run dev
 
 > Then open your browser and visit the local server URL provided in the terminal (usually `http://localhost:5173`).
 
-<br>
-
 > Luego abre el navegador y visita la URL del server local que muestra la terminal (normalmente `http://localhost:5173`) 
 
 <br>
@@ -91,11 +87,9 @@ npm run dev
     
 📚 Credits / Créditos
 
-Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
+> Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
 
-<br>
-
-Basado en un tutorial de freeCodeCamp en Youtube, con modificaciones personales y estilo.
+> Basado en un tutorial de freeCodeCamp en Youtube, con modificaciones personales y estilo.
 
 <br>
 
