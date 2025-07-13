@@ -51,7 +51,7 @@ npm run dev
 
 <br>
 
-🚀 Technologies Used / Tecnologías utilizadas
+## 🚀 Technologies Used / Tecnologías utilizadas
 
 * React
 
@@ -63,7 +63,7 @@ npm run dev
 
 <br>
 
-🧠 Potential Improvements / Posibles mejoras
+## 🧠 Potential Improvements / Posibles mejoras
 
 * (EN) Add a toggle visual theme dark/light mode
 * (ES) Agregar un tema visual que pueda alternar entre claro/oscuro
@@ -85,7 +85,7 @@ npm run dev
 
 <br>
     
-📚 Credits / Créditos
+## 📚 Credits / Créditos
 
 > Based on a freeCodeCamp tutorial on YouTube, with personal modifications and styling.
 
@@ -93,4 +93,4 @@ npm run dev
 
 <br>
 
-✍️ Created by Federico González
+> Created by Federico González
